@@ -1,0 +1,66 @@
+Tanmay Sharma – Professional Certification Portfolio
+Welcome to my professional certification portfolio. This README highlights my continuous learning efforts and industry-relevant skills demonstrated through multiple certified courses and workshops, strengthening my data analytics, cloud computing, AI, and business intelligence expertise.
+
+About Me
+I am an aspiring data professional and engineer with a strong foundation in data analysis, cloud technologies, business intelligence, and AI integration. Committed to mastering modern tools to deliver scalable and actionable insights, I actively pursue certifications to validate and expand my skillset.
+
+Certifications Overview
+Data Analysis & Business Intelligence
+Master Microsoft Power BI — Comprehensive dashboarding, DAX, and data modeling mastery for interactive, dynamic BI solutions.
+
+Diploma in Microsoft Power BI for Beginners — Solid foundation in BI tool basics, report creation, and visualization design.
+
+Mastering Data Analysis using Microsoft Excel: Formulas and Pivot Tables — Advanced spreadsheet skills pivotal for data cleaning and exploratory analysis.
+
+Microsoft OneDrive: A Step-by-Step Guide — Leveraging cloud file storage and collaboration for efficient data workflows.
+
+Cloud Computing & Amazon Web Services (AWS)
+AWS Cloud Practitioner Essentials — Fundamental AWS cloud concepts, services, and cost management.
+
+AWS Billing and Cost Management — Mastery over AWS budget planning and expense controls.
+
+AWS Foundations: Getting Started with the AWS Cloud Essentials — Core knowledge for designing cloud-ready architectures.
+
+Job Roles in the Cloud — Understanding various cloud career paths and responsibilities.
+
+Amazon Q Introduction — Familiarity with Amazon's AI-enhanced question-answering systems.
+
+Artificial Intelligence & AI Tools
+Building a Generative AI-Ready Organization — Strategies for AI adoption and organizational readiness.
+
+Introduction to Generative AI – Art of the Possible — Overview of generative AI technologies and applications.
+
+Planning a Generative AI Project — Stepwise guide to conceptualize and initiate AI projects.
+
+AI Tools & ChatGPT Workshop (be10x) — Hands-on training for AI-assisted data analysis, presentations, and code generation.
+
+ChatGPT & AI in Microsoft Office (Skill Nation) — Integrating AI capabilities to enhance productivity and data tasks.
+
+Software Development & Collaboration
+Beginner's Guide to GitHub — Version control essentials, collaborative workflows, and repository management.
+
+Advanced Excel Training
+3-hours Advanced Excel Workshop (Ira Skills, ISO 9001:2015 Certified) — Key Excel skills for data manipulation, advanced formulas, and effective reporting.
+
+Financial & Investment AI
+Artificial Intelligence in Personal Finance and Investments (Alison) — AI applications for smart financial decision-making and investment analysis.
+
+Professional Development
+45-Day Internship Completion Certificate — Experience demonstrated in handling real-world projects independently during internship tenure.
+
+Why These Certifications Matter
+Validated Expertise: Proof of hands-on ability in critical data and cloud technologies sought by top employers and academic programs.
+
+Industry Relevance: Aligned with MAANG standards and market-demanded skills in AI, BI, cloud, and programming.
+
+Continuous Learning: Reflects dedication to evolving with emerging tech trends and expanding cross-disciplinary knowledge.
+
+Practical Application: All certifications directly complement my portfolio projects in analytics, cloud data engineering, AI, and dashboarding.
+
+Next Steps & Availability
+I actively look forward to applying these skills in advanced academic research, corporate internships, or professional data science and cloud engineering roles. For project repositories, detailed portfolios, or collaboration, please visit my GitHub or contact me via LinkedIn.
+
+GitHub: https://github.com/Tanu272004
+LinkedIn: http://www.linkedin.com/in/
+
+Thank you for taking the time to review my certification journey and professional preparation. I am excited to continue growing as a data and AI specialist.
