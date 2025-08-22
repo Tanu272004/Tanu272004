@@ -63,4 +63,5 @@ I actively look forward to applying these skills in advanced academic research, 
 GitHub: https://github.com/Tanu272004
 LinkedIn: http://www.linkedin.com/in/
 
+
 Thank you for taking the time to review my certification journey and professional preparation. I am excited to continue growing as a data and AI specialist.
